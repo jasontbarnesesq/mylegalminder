@@ -1,5 +1,3 @@
-Let me create that README for you:
-
 # My Legal Minder
 
 > AI-powered calendar and task management for legal professionals
