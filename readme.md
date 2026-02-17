@@ -397,7 +397,4 @@ Securities Attorney & Developer
 ---
 
 *Built with ❤️ for legal professionals who value their time*
-
----
-
-I've created a comprehensive README that covers everything we've discussed. Would you like me to save this to a file you can download, or would you like me to make any adjustments first?
+Copyright 2026 Jason T. Barnes, Esq.
